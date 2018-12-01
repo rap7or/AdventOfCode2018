@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# Author: rap7or22
+# 12/1/2018
 
 import itertools
 
