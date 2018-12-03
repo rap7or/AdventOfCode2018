@@ -13,7 +13,7 @@ in the file. Pretty straightforward. End result ended up being 420 _heh_.
 Part two was to find the first frequency that was repeated. The caveat was that the 
 input could be looped more than once. Answer came to be 227
 
-#Day 2
+# Day 2
 
 Part two was a simple checksum solution, where the solution was the number of box ID's 
 with two repeating letters in it multiplied with the number of box ID's with three 
